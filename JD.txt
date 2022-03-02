@@ -1,0 +1,7 @@
+1.AWS EKS cluster,nodegroup deployment,Autoscaling configuration via Terraform modules
+2.Creating crds for Nodeshutdown scheduler deployment via Helm Charts
+3.Helm charts upgrade from current to latest version for Prometheus, Grafana, Push gateway, k8s-sidecar
+4. Deploying AWS EKS multiple init containers and their secrets management with AWS systems manager using various use cases for create modes including k8s-secrets 
+5.ElasticSearch service deployment via Terraform for Kibana dashboard to be used by end users- Adding ingress for Grafana in the Helm Charts, configuring fluentd for aggregating logs from all the namespaces
+6.Providing solutions to Consulting team on the reported issues to help the end users.
+7. Raising Pull requests for Terraform deployments using Git, Jenkins and PTP post approval of the PR.
